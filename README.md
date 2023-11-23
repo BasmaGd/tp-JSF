@@ -50,11 +50,12 @@ Le projet est organisé selon la structure suivante :
 ![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/23baa087-7d8d-4359-8ea6-d72a96de3875)
 
 ### Modification Employé
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/f6090865-eaf3-4bfb-aace-eff215ee3682)
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/82d90102-6894-44de-981d-26d2ec95b0d1)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/21f23ded-1950-4a11-9f2e-f338dae77802)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/22e755e2-9502-49c1-87c5-86f9f361b7ac)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/ecb51f37-5b95-4992-b404-9d7ff414b014)
 ### Suppression Employé « BB»
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/eaef343b-569f-4678-9728-3cb704c2a5e8)
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/f8b1c9e8-821d-40d2-a15a-b07b8d85595a)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/a90c74bc-67f1-4148-ae29-e0b3049d2503)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/7654294d-5357-4811-b4ec-7a480cec3955)
 
 ### Graphe des Employés par Service
 ![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/a12ffdc7-e75e-402a-b0e6-1728acc1171d)
