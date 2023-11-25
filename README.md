@@ -4,7 +4,7 @@
 
 Ce projet est une application web de gestion des employés développée avec Java Server Faces (JSF). Il permet la gestion complète des données des employés par services, offrant des fonctionnalités de création, lecture, mise à jour et suppression (CRUD) des informations des employés et des services associés.
 
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/1f8c6707-4819-4592-a211-2ceb42917de9)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/1b0fc8af-55a9-4945-9263-4930803c89ab)
 
 ## Technologies Utilisées
 
