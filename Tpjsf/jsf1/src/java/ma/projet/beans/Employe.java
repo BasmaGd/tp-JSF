@@ -105,8 +105,5 @@ public class Employe implements Serializable {
     public String toString() {
         return "Employe{" + "id=" + id + ", nom=" + nom + ", prenom=" + prenom + ", photo=" + photo + ", dateNaissance=" + dateNaissance + ", service=" + service + ", chef=" + chef + '}';
     }
-//public boolean estChef() {
-//        return this.chef != null; // Retourne true si l'employé a un chef, sinon false
-//    }
 
 }
