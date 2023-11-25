@@ -43,7 +43,7 @@ Le projet est organisé selon la structure suivante :
 
 ## Captures d'écran
 ### Login 
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/379c47ad-6b84-4927-88c8-3e0c48783bac)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/8905ece6-5403-4124-8c88-a3923d75aa9b)
 
 ### Modification Service
 ![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/27dac8dd-e55a-4613-8929-7abbe199dadf)
