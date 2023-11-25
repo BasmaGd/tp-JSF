@@ -57,6 +57,10 @@ Le projet est organisé selon la structure suivante :
 ![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/a8e29dd9-980b-475a-b6b3-d6ace65c3b4e)
 ![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/a4dd14d1-d97d-418b-94d4-6c9c7c5126bf)
 
+### Tree
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/0a257d81-018c-441f-afad-fe3c7eadcbee)
+
+
 
 ### Graphe des Employés par Service
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/a12ffdc7-e75e-402a-b0e6-1728acc1171d)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/c873f4f2-32ec-42ca-81a5-f49427a538dc)
