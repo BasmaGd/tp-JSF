@@ -42,6 +42,9 @@ Le projet est organisé selon la structure suivante :
 - **src/test :** Répertoire pour les tests unitaires.
 
 ## Captures d'écran
+### Login 
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/379c47ad-6b84-4927-88c8-3e0c48783bac)
+
 ### Modification Service
 ![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/27dac8dd-e55a-4613-8929-7abbe199dadf)
 ![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/bfb0a6e5-d09c-4625-80c4-d0a4a5149ded)
@@ -50,17 +53,18 @@ Le projet est organisé selon la structure suivante :
 ![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/23baa087-7d8d-4359-8ea6-d72a96de3875)
 
 ### Modification Employé
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/e5008169-2fde-41d4-92a5-1bbe28c784b7)
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/2e68a5fd-9578-4de1-98a6-5900f933f40f)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/f9b7b8d4-1fea-4806-86a8-7870bf3e3fbe)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/0a082d8e-da7a-4f45-b4db-3dbf1fe50161)
 
-### Suppression Employé « Ahmed »
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/a8e29dd9-980b-475a-b6b3-d6ace65c3b4e)
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/a4dd14d1-d97d-418b-94d4-6c9c7c5126bf)
+### Suppression Employé « Employe1 »
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/08f9cb0f-d381-4835-a977-2cea6c329fdc)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/c816694e-3edc-4bc0-9b79-3f26b524f283)
 
 ### Tree
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/0a257d81-018c-441f-afad-fe3c7eadcbee)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/86f6ccd7-4bc4-4073-8747-3fafc79601ab)
 
 
 
 ### Graphe des Employés par Service
-![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/c873f4f2-32ec-42ca-81a5-f49427a538dc)
+![image](https://github.com/BasmaGd/tp-JSF/assets/118211411/1c58a274-69dc-499e-8a2f-aacf752c2de7)
+
